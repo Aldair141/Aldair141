@@ -1,5 +1,18 @@
 # Juan Aldair Ruiz Carmona
 
-[<img align="left" alt="Aldair | LinkedIn" width="22px" src="https://github.com/Aldair141/Aldair141/blob/main/img/linkedin.svg">][linkedin]
-
 ## Analista Programador
+
+Bienvenido...!!!
+
+Mi nombre es Juan Aldair y tengo experiencia de 5 años trabajando con tecnologías web.
+
+Conocimientos:
+
+1. php
+2. .NET
+3. Angular JS
+4. Node JS
+5. Express
+6. Mongo DB
+7. SQL Server
+8. MySQL
